@@ -48,7 +48,7 @@ git clone https://github.com/Entervive/Losowe-Obrazy-Wyr--niaj-ce-Wordpress.git
 
 ## 📥 Szybkie pobieranie
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-success?style=for-the-badge&logo=download)](https://github.com/Entervive/Losowe-Obrazy-Wyr--niaj-ce-Wordpress/releases/latest/download/random-featured-image.zip)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-success?style=for-the-badge&logo=download)](https://github.com/Entervive/Losowe-Obrazy-Wyr--niaj-ce-Wordpress/releases/download/v1.0.1/losowe-obrazy-wyrozniajace.zip)
 
 ## 🔧 Konfiguracja
 
@@ -124,13 +124,17 @@ Ten plugin jest udostępniony na licencji MIT. Zobacz plik [LICENSE](LICENSE) po
 
 ## 📝 Changelog
 
-### 1.0.0 (2025-01-XX)
+### 1.0.0 (25.07.2025)
 
 - Pierwsze wydanie
 - Podstawowa funkcjonalność wyboru i przypisywania losowych obrazów
 - Interfejs w języku polskim
 - Automatyczne przypisywanie przy publikacji
 - Zastosowanie do istniejących postów
+
+### 1.0.1 (25.07.2025)
+
+- Zapewnienie lepszego wyniku testów w Plugin Check (PCP)
 
 ---
 
