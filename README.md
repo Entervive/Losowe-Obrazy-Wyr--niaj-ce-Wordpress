@@ -48,7 +48,7 @@ git clone https://github.com/Entervive/Losowe-Obrazy-Wyr--niaj-ce-Wordpress.git
 
 ## 📥 Szybkie pobieranie
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-success?style=for-the-badge&logo=download)](https://github.com/Entervive/Losowe-Obrazy-Wyr--niaj-ce-Wordpress/releases/latest/download/random-featured-image.zip)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-success?style=for-the-badge&logo=download)](https://github.com/Entervive/Losowe-Obrazy-Wyr--niaj-ce-Wordpress/releases/download/v1.0.0/losowe_zdjecia.zip)
 
 ## 🔧 Konfiguracja
 
