@@ -34,8 +34,8 @@ Plugin "Losowe Obrazy Wyróżniające" pozwala na automatyczne przypisywanie los
 ### Opcja 2: Ręczna instalacja
 
 1. Pobierz pliki pluginu
-2. Stwórz folder `random-featured-image` w katalogu `/wp-content/plugins/`
-3. Wgraj plik `random-featured-image.php` do utworzonego folderu
+2. Stwórz folder `losowe-obrazy-wyrozniajace` w katalogu `/wp-content/plugins/`
+3. Wgraj plik `losowe-obrazy-wyrozniajace.php` do utworzonego folderu
 4. Przejdź do panelu administracyjnego WordPress
 5. Aktywuj plugin w sekcji "Wtyczki"
 
@@ -43,6 +43,7 @@ Plugin "Losowe Obrazy Wyróżniające" pozwala na automatyczne przypisywanie los
 
 ```bash
 cd /wp-content/plugins/
+mkdir losowe-obrazy-wyrozniajace && cd losowe-obrazy-wyrozniajace
 git clone https://github.com/Entervive/Losowe-Obrazy-Wyr--niaj-ce-Wordpress.git
 ```
 
@@ -124,6 +125,10 @@ Ten plugin jest udostępniony na licencji MIT. Zobacz plik [LICENSE](LICENSE) po
 
 ## 📝 Changelog
 
+### 1.0.1 (25.07.2025)
+
+- Zapewnienie lepszego wyniku testów w Plugin Check (PCP)
+
 ### 1.0.0 (25.07.2025)
 
 - Pierwsze wydanie
@@ -131,10 +136,6 @@ Ten plugin jest udostępniony na licencji MIT. Zobacz plik [LICENSE](LICENSE) po
 - Interfejs w języku polskim
 - Automatyczne przypisywanie przy publikacji
 - Zastosowanie do istniejących postów
-
-### 1.0.1 (25.07.2025)
-
-- Zapewnienie lepszego wyniku testów w Plugin Check (PCP)
 
 ---
 
